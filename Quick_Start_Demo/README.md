@@ -1,11 +1,16 @@
-
 ### Reference: https://github.com/averdones/star_wars_object_detection 
+
+preparation
+1. Download pretrained model "ssd_inception_v2_coco" from https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1_detection_zoo.md. Put them to ./Quick_Start_Demo/Inception_v2_coco/
+
+2. Download pretrained model "ssd_inception_v2_coco-iter500" from .Put them to ./Quick_Start_Demo/object_detection/labelcar/
 
 ## Usage:
 ###Step 1: Open a command prompt or terminal, and write
 jupyter notebook
 
 ###Step 2: Open Main_cars_detection.ipynb, and use "run" feature in python3 environment. 
+
 ###Step 3: You can cancel it by Ctrl+C
 
 
