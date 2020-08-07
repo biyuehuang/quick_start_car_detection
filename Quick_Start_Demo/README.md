@@ -3,7 +3,7 @@
 preparation
 1. Download pretrained model "ssd_inception_v2_coco" from https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1_detection_zoo.md. Put them to ./Quick_Start_Demo/Inception_v2_coco/
 
-2. Download pretrained model "ssd_inception_v2_coco-iter500" from .Put them to ./Quick_Start_Demo/object_detection/labelcar/
+2. Download pretrained model "ssd_inception_v2_coco-iter500" from 链接:https://pan.baidu.com/s/1w-cN5hQ5yARmBfVaOYgy1g  密码:84e1.Put them to ./Quick_Start_Demo/object_detection/labelcar/
 
 ## Usage:
 ###Step 1: Open a command prompt or terminal, and write
