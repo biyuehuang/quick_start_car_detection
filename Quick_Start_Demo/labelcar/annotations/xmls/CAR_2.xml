@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>CAR_2.jpg</filename>
+	<path>/home/test/Downloads/aidevkit/Quick_Start_Demo/labelcar/images/CAR_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>318</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>86</ymin>
+			<xmax>224</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>
