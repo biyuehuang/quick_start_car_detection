@@ -1,2 +1,2 @@
 # quick_start_car_detection
-Open Quick_Start_Demo
+Guide: https://zhuanlan.zhihu.com/p/642425616
